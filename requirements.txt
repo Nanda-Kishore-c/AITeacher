@@ -422,3 +422,8 @@ yarl==1.20.0
 zipp==3.22.0
 zopfli==0.2.3.post1
 zstandard==0.23.0
+streamlit
+PyPDF2
+google
+google-generativeai
+pydub
