@@ -1,0 +1,1 @@
+At its core, a computer is comprised of several key components working in harmony, starting with the Central Processing Unit, or CPU, which functions as the primary decision-maker and orchestrator of all operations. The CPU receives instructions, performs calculations, and directs the flow of data throughout the system.

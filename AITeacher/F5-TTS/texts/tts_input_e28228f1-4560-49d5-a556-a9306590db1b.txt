@@ -1,0 +1,1 @@
+It is used for tasks like addition, subtraction, and division, enabling the computer to manipulate data in numerous ways. Registers are crucial internal components used to hold data and intermediate results during calculations, speeding up the processing of data within the computer.

@@ -1,0 +1,3 @@
+The *process* is what the computer actually *does* with that information, and the *output* is what you get back – like seeing something on the screen or hearing a sound.
+
+Now, let’s break down the *inside* of a computer. It’s made up of hardware – that's the physical stuff like the processor, the memory, the monitor, and the keyboard.

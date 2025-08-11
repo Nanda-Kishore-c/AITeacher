@@ -1,0 +1,1 @@
+The CPU also manages memory, which is a dedicated storage area allowing the computer to retain information between operations. This memory is organized into different types, such as RAM, which provides fast, temporary storage for actively used data, and ROM, which stores permanent instructions that the computer needs to function.

@@ -1,0 +1,3 @@
+It’s much faster than constantly moving things around. 
+
+Then we have "Logic Micro-Operations." These are very basic operations the CPU performs, like adding numbers or comparing values. These are the fundamental steps in calculating things. Think of them as the simple actions you take when following a recipe – like measuring, stirring, or checking if something is cooked.

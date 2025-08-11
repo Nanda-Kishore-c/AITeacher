@@ -1,0 +1,1 @@
+This ALU interacts with various registers, which are small, fast storage locations within the CPU used to hold intermediate values during calculations. One crucial register is the Accumulator, or ACC, which is the primary register used to store the results of operations performed by the ALU.

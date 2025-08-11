@@ -1,0 +1,5 @@
+It’s made up of different parts working together. We can break it down into a cycle: Input, Process, and Output.
+
+First, you *input* information. This could be typing something on a keyboard, clicking a mouse, or scanning a document. That information gets converted into a language the computer understands – which is basically just a bunch of 1s and 0s.
+
+Then, the *process* happens.

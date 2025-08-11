@@ -1,0 +1,1 @@
+At the heart of the computer is the Central Processing Unit, often called the CPU, which functions as the brain, executing instructions and performing calculations. The CPU receives data through input devices like a keyboard, mouse, or scanner, and it sends processed information back to the user via output devices.

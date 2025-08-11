@@ -1,0 +1,1 @@
+The computer’s central processing unit, or CPU, is a remarkable device designed to perform complex calculations and control operations, and it operates using a system of registers and memory. At its core is the Arithmetic Logic Unit, or ALU, which is responsible for performing mathematical operations like addition, subtraction, and logical comparisons.

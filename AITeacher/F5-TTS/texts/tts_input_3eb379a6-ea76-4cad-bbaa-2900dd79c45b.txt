@@ -1,0 +1,1 @@
+Finally, the Memory Unit, or MU, stores data and instructions, providing a persistent space for the computer to hold information. This memory is often referred to as RAM, or Random Access Memory, and allows the computer to quickly access data needed for ongoing operations.

@@ -1,0 +1,1 @@
+Essentially, the computer is constantly fetching instructions, decoding them, executing them, and then storing the results – this is known as the instruction cycle. All these components work together seamlessly to allow you to do everything from writing a document to playing a game, making the computer a powerful and versatile tool.

@@ -1,0 +1,1 @@
+The computer’s overall goal is to take input, perform operations, and then produce output, all controlled and orchestrated by this intricate system of registers and memory. The output is then displayed or stored for later use.

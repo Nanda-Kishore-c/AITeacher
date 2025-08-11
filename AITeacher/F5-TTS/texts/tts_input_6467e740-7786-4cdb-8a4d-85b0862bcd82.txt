@@ -1,0 +1,3 @@
+The computer uses these addresses to quickly find and retrieve information. 
+
+Notice that we have a diagram of the Accumulator. The Accumulator, or ACC, is a special register within the ALU. It’s like a temporary holding space for the results of calculations.

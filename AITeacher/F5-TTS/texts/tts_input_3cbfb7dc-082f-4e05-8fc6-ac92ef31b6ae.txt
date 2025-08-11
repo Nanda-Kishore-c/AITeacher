@@ -1,0 +1,3 @@
+It's much faster to access information in the MU than it is to fetch it from a hard drive, which is a slower storage device.
+
+Finally, we have the Register. The Register is a tiny, super-fast storage location *within* the CPU itself. It's like a small notepad that the CPU uses to hold data it's actively working on at that very moment.

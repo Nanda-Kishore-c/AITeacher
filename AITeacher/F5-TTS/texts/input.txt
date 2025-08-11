@@ -1,0 +1,1 @@
+It’s showing us how a computer fundamentally works, and it’s really about taking information, processing it, and then giving you the result.

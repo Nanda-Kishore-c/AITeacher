@@ -1,0 +1,1 @@
+So, the CPU takes instructions, moves data with register transfers, performs basic calculations, shifts data, and accesses memory to ultimately produce the output you see on your screen. It’s all about quick data movement and simple calculations happening repeatedly. Okay, let’s break down what we're seeing here.

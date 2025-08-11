@@ -1,0 +1,1 @@
+The interaction between the CPU and memory is crucial for efficient operation, allowing the computer to run programs and store information. The output stage then takes the processed data from the CPU and presents it to the user through output devices such as a monitor or a printer, translating the processed information into a visible or printable form.

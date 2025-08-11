@@ -1,0 +1,1 @@
+During this process, the ALU performs calculations, and the ACC stores the outcomes, while memory holds both the original data and the results. The CPU manages the flow of data between registers and memory, ensuring that information is processed correctly.

@@ -1,0 +1,1 @@
+This CPU takes input from various devices like a keyboard, mouse, or scanner, and then transforms that input into a format it can understand. The initial step involves fetching data, moving it from the input device into the CPU’s registers, which are small, high-speed storage locations within the CPU itself.

@@ -1,0 +1,1 @@
+People often call the CPU the “brain” of the computer. It's where all the processing happens. The CPU has a few key parts working together. There’s the Arithmetic Logic Unit, or ALU. The ALU does all the math – addition, subtraction, multiplication, division – and it also makes logical decisions, like comparing numbers.

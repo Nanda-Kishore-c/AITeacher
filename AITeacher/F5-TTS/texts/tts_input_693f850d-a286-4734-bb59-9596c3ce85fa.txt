@@ -1,0 +1,1 @@
+The computer also utilizes memory, often referred to as RAM, for long-term storage of data and instructions. RAM is organized into locations, each identified by an address, allowing the CPU to quickly access and modify information. The CPU fetches instructions from memory, decodes them, and then executes them, essentially following a set of steps to achieve a desired outcome.

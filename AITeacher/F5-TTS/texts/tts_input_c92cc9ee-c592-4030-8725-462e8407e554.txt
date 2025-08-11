@@ -1,0 +1,1 @@
+Finally, after the CPU has processed the information, it needs to be presented to you, and that’s the job of the Output Unit. This could be your monitor displaying text and images, a printer creating a hard copy, or speakers playing sound. The way the CPU handles information internally is based on something called Instruction Set Architecture.

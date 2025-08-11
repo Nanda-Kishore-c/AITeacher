@@ -1,0 +1,5 @@
+It's where the ALU stores the intermediate answer while it's working.
+
+The diagram shows how the ALU takes input, performs an operation, and then stores the result in the ACC. 
+
+So, let's say you want to add two numbers. The first number would be sent to the ALU as input. The ALU would perform the addition, and the result would be stored in the ACC.

@@ -1,0 +1,1 @@
+There’s also non-volatile memory like a hard drive or SSD, which allows data to be stored permanently. The process of transferring data between the CPU and memory is a crucial element of the computer’s operation, using addresses to pinpoint exact locations. The computer utilizes a bus system, like a highway, to move data quickly between the various components.

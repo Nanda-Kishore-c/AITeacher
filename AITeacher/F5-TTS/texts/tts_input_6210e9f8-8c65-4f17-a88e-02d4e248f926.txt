@@ -1,0 +1,5 @@
+A computer does something similar, but with data and instructions.
+
+At the very core, we have what’s called the Central Processing Unit, or CPU. The CPU is like the brain of the computer. It's responsible for all the calculations and decision-making.
+
+Let's break down the different parts shown here. First, we have Input. Input is where the computer receives information.

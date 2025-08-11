@@ -1,0 +1,1 @@
+This is where instructions and data are stored long-term. It’s divided into many individual locations, each with a unique address, allowing the CPU to quickly find and access any piece of information. This type of memory is called Random Access Memory, or RAM, because the CPU can access any location in any order.

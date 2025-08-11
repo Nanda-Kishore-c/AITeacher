@@ -1,0 +1,1 @@
+The working cycle of a computer, often referred to as the Input-Output Cycle, involves the computer taking in input, processing it, and producing desired output. The input unit consists of input devices that convert data into binary language that the computer understands; common input devices include keyboards, mice, joysticks, and scanners.

@@ -1,0 +1,1 @@
+So, it’s a cycle: The Control Unit tells the ALU what to do, the ALU does the operation, and then the result is stored back in RAM. This is how the computer processes information. It's a constant flow of data, and the Control Unit manages it all.

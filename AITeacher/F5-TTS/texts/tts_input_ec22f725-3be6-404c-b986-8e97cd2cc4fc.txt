@@ -1,0 +1,1 @@
+These registers are used in conjunction with the accumulator, a special register that plays a central role in storing intermediate results during processing. The computer’s operation is based on a system known as assembly language programming, where instructions are represented by mnemonic codes, such as “ADD” for addition or “MOV” for moving data between registers.

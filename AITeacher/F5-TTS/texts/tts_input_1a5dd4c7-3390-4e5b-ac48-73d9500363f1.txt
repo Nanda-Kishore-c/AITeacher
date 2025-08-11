@@ -1,0 +1,3 @@
+Okay, let's take a look at this diagram. It’s showing us how a computer essentially works, and it’s broken down into a few key parts.
+
+Think of the computer as a really smart mail sorter. It receives information – that’s the input. Then, it processes that information, like sorting letters based on their destination.

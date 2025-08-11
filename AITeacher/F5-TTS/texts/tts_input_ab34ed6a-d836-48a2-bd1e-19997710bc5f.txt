@@ -1,0 +1,3 @@
+It takes input, performs the calculation, and then gives you the result back.
+
+Next, we have the **Control Unit**. This is the boss. It directs everything. It tells the ALU what to do – "Okay, ALU, add these two numbers!" – and it also manages the flow of data between the ALU and the rest of the system.

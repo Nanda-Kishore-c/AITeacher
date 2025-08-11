@@ -1,0 +1,3 @@
+And we also have the **Control Unit**, which tells the other parts what to do, step-by-step.
+
+Finally, we have **Registers**. Think of registers as tiny, super-fast storage spots *inside* the CPU. They hold the data the processor is actively using. The **Accumulator** is a special register within the ALU that's often used for calculations.

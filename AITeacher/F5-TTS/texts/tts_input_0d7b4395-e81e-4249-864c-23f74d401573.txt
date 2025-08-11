@@ -1,0 +1,1 @@
+All these components work together seamlessly, following a set of instructions called a program, to complete tasks. Underneath all of this, the computer operates using something called Instruction Set Architecture, which is essentially the language the CPU understands.

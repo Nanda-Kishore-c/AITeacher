@@ -1,0 +1,1 @@
+The second is the Arithmetic Logic Unit, or ALU, which performs all the mathematical calculations and logical comparisons. So, if you ask the computer to add two numbers, the ALU does the adding, guided by the Control Unit. But the CPU can’t do everything on its own; it needs a place to store information temporarily. That’s where the Memory Unit, or MU, comes in.

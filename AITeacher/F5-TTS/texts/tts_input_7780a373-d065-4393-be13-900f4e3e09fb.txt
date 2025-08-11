@@ -1,0 +1,1 @@
+The CPU also relies heavily on a larger type of memory called RAM, or Random Access Memory. This is where the computer stores the instructions and data it’s currently using. RAM is different from long-term storage like your hard drive; it’s faster to access, but it loses its information when the power is turned off.

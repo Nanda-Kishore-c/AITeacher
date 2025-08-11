@@ -1,0 +1,1 @@
+The CPU operates using instructions, and these instructions are often broken down into smaller steps called micro-operations, which are executed sequentially. These micro-operations involve transferring data between registers, which are essentially temporary storage locations within the CPU, and performing logical operations to modify the data.

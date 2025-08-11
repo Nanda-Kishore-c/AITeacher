@@ -1,0 +1,1 @@
+It then interprets what those instructions mean, figuring out what needs to be done. If the instruction requires information, the CPU gets that data either from memory or from an input device like your keyboard or mouse. Once it has everything it needs, the CPU executes the instruction, meaning it performs the required calculation or action.

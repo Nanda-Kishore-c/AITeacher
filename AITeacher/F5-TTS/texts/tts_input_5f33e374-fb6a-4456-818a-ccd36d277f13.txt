@@ -1,0 +1,1 @@
+The registers are used to store data during these operations, allowing for incredibly fast data manipulation. The memory, or RAM, serves as a larger, more permanent storage space for the computer’s data and programs, enabling it to hold information needed for ongoing processes.

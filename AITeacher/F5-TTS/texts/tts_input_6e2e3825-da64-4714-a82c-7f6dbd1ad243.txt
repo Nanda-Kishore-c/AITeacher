@@ -1,0 +1,3 @@
+We’re seeing a computer system, and it’s broken down into three main parts: the Arithmetic Logic Unit, the Control Unit, and Random Access Memory, or RAM.
+
+First, let’s talk about the Arithmetic Logic Unit, or ALU. Think of the ALU like a really fast calculator. It can do basic math: addition, subtraction, multiplication, and division.

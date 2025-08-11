@@ -1,0 +1,1 @@
+The very first thing the CPU does is fetch instructions from the computer’s memory – think of memory as a notebook where the computer stores information and things it needs to do. Once it has an instruction, it figures out what that instruction means and then carries it out. This often involves getting data, either from memory or from something you input like a keyboard or mouse.

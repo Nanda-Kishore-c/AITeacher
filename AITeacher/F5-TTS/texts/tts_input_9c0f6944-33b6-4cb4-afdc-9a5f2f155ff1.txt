@@ -1,0 +1,5 @@
+Okay, let’s talk about computers! Basically, a computer is like a really smart machine that takes in information, does something with it, and then gives you an answer or result.
+
+Think of it like this: you give the computer some instructions – like "add 2 and 2" – and it does the math for you.
+
+Now, to do this, a computer uses a bunch of different parts working together.

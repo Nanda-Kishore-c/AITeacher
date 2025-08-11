@@ -1,0 +1,1 @@
+It’s responsible for fetching instructions, decoding them, and making sure everything happens in the correct order. The third part is Memory Registers. These are small, super-fast storage locations *within* the CPU itself. They’re used to temporarily hold data and instructions that the CPU is actively working with. Think of them as the CPU’s short-term memory.

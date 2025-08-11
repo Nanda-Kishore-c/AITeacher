@@ -1,0 +1,3 @@
+And finally, the computer *outputs* the result – like displaying the text on the screen.
+
+The computer stores information in a special kind of memory called RAM. RAM is like a whiteboard; it's where the computer holds the information it’s currently working with. When you turn the computer off, the RAM is wiped clean.

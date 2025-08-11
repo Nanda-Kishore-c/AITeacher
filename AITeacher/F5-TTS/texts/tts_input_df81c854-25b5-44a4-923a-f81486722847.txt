@@ -1,0 +1,5 @@
+Okay, let’s look at this diagram. Essentially, this represents the core of what a computer does – it takes information, processes it, and then gives you the result. 
+
+Think of it like this: you want to bake a cake. You have a recipe , you need ingredients , and you need to follow the instructions to mix them and bake it .
+
+Now, let’s break down the parts shown here.

@@ -1,0 +1,1 @@
+This entire process relies on both hardware, which are the physical parts you can touch like the screen, keyboard, and mouse, and software, which are the instructions that tell the hardware what to do. The core of understanding a computer lies in recognizing its functional components. Imagine a simple cycle: Input, Process, Output.

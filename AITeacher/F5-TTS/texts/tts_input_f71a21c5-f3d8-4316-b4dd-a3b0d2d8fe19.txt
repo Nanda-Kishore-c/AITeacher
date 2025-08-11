@@ -1,0 +1,1 @@
+The output unit, consisting of various data transfer mechanisms, allows the computer to communicate with external devices, sending data to them or receiving data from them. The entire process is managed by the CPU, ensuring that data is processed accurately and efficiently, ultimately delivering the desired output.

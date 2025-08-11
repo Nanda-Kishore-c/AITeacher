@@ -1,0 +1,3 @@
+This could be displaying something on a monitor, printing a document, or sending information over the internet.
+
+Now, inside the CPU, there are these things called registers. Think of registers as little temporary storage spaces for the CPU. They hold data and instructions while the CPU is working on them.

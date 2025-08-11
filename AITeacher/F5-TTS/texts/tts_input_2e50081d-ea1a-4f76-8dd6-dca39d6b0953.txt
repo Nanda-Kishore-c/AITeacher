@@ -1,0 +1,1 @@
+Think of it as a calculator that can also compare things – is one number bigger than another? It handles addition, subtraction, multiplication, division, and comparisons. Next, we have the Control Unit. This is like the manager of the CPU. It directs the flow of data and instructions, telling all the other parts what to do and when to do it.

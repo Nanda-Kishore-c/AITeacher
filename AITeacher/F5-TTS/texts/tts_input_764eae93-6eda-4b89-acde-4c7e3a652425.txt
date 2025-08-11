@@ -1,0 +1,1 @@
+Think of it as the computer’s short-term memory. It holds the data and instructions that the CPU is actively working with. Finally, after the CPU processes the information, it needs to show you the result. This is done through the Output Unit, which includes things like your monitor displaying text and images, or a printer creating a physical copy of a document.

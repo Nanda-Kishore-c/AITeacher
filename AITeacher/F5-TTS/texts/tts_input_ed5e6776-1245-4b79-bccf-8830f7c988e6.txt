@@ -1,0 +1,1 @@
+The overall process involves moving data between memory locations and the ALU, constantly updating the computer’s state and allowing it to perform complex operations efficiently. The computer is a sophisticated system where these components work in harmony to execute instructions and ultimately, solve problems or perform tasks that the user requests.

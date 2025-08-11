@@ -1,0 +1,3 @@
+The computer also uses **Memory**, which is like a bigger storage space for holding all the information and programs. This memory is really important for the computer to function. 
+
+Does that make sense so far?

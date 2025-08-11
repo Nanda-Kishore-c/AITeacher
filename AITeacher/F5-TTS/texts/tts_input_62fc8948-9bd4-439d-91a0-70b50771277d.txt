@@ -1,0 +1,3 @@
+This diagram represents a very basic computer system, and it’s all about how a computer performs calculations and handles data.
+
+First, we have the **Arithmetic Logic Unit**, or ALU. Think of the ALU as the computer's calculator. It’s where all the math happens – addition, subtraction, multiplication, and division. It’s like having a small, dedicated machine that only does mathematical operations.

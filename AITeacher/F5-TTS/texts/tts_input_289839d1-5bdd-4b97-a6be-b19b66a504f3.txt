@@ -1,0 +1,1 @@
+Input and output devices, such as a monitor or printer, require the CPU to translate the processed data into a format they can understand. The computer constantly cycles through these stages, executing instructions, performing calculations, and managing data flow.

@@ -1,0 +1,3 @@
+Then there’s the Control Unit, which is like the manager, telling the ALU what to do and coordinating everything. And there are Memory Registers, which are small, temporary spaces inside the CPU where the processor stores information it's working with right now.
+
+Let's break it down even further.

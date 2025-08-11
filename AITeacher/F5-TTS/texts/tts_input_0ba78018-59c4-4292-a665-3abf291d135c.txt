@@ -1,0 +1,5 @@
+We’re going to break it down step-by-step.
+
+Essentially, this whole system – this computer – is built around a central unit. Think of it like a really fast calculator, but one that can also *remember* things. That’s the core of what we’re seeing.
+
+First, we have what’s called the Arithmetic Logic Unit, or ALU. The ALU is the workhorse. It's where all the calculations happen.

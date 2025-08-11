@@ -1,0 +1,1 @@
+A computer is essentially a collection of hardware and software resources working together to perform various functions for the user, encompassing physical components like the processor, memory devices, monitor, keyboard, and software, which is the set of programs or instructions required by the hardware resources to function properly.

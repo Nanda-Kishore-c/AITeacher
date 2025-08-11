@@ -1,0 +1,1 @@
+Once the data is in registers, the CPU then performs logical operations on it, using circuits designed for arithmetic calculations, shifting data bits, and manipulating information. The results of these operations are then stored back into registers, ready for further processing or output.

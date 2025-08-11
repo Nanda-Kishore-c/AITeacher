@@ -1,0 +1,1 @@
+The CPU can quickly read information from and write information to any location in RAM, which is why it’s called “random access.” Lastly, the output unit takes the results the CPU creates – which are in a form the computer understands – and converts them into something we can understand, like text on a screen or an image on a printer.

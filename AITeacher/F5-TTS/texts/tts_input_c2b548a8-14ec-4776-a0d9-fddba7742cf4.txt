@@ -1,0 +1,1 @@
+Finally, it either stores the result back into memory or sends it to an output device, like your screen or printer, so you can see the outcome. Now, the CPU isn’t just one single piece; it’s made up of three main parts that work together. First, there’s the Arithmetic Logic Unit, or ALU. This is the part that does all the math and makes logical decisions.

@@ -1,0 +1,1 @@
+It’s much faster to access data from RAM than from a hard drive, which is where the computer stores files permanently. When you open a program, it’s loaded into RAM. The Control Unit directs the ALU to read data from RAM, perform calculations, and then store the results back into RAM.

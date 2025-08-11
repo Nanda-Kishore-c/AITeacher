@@ -1,0 +1,1 @@
+RAM is faster to access than the computer’s long-term storage , but it loses its information when the power is turned off.

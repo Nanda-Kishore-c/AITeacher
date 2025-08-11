@@ -1,0 +1,3 @@
+This could be displaying text on your screen, playing a sound, or controlling a robot’s movements.
+
+Now, let’s talk about the Memory Unit, or MU. Think of the MU as a really organized notebook. It’s where the computer stores information *temporarily*.

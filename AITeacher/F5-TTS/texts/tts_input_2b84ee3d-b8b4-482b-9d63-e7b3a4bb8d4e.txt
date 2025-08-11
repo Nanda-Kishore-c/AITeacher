@@ -1,0 +1,1 @@
+The CPU’s operations often involve moving data between different registers within the computer, which are essentially temporary storage locations used for quick access. These operations, sometimes called micro-operations, are performed using logical gates, which are electronic circuits that perform basic logical functions like AND, OR, and NOT.

@@ -1,0 +1,1 @@
+Registers come in different sizes and each has a specific function, like storing an instruction, the address of a location in memory, or intermediate results of calculations. A particularly important register is the Accumulator, which holds one of the pieces of data needed for the ALU to perform its calculations. Finally, the CPU relies on a larger storage area called Memory.

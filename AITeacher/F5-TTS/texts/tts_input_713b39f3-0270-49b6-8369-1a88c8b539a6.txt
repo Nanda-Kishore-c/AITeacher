@@ -1,0 +1,1 @@
+These are small, super-fast storage locations *within* the CPU itself. They’re used to temporarily hold data and instructions that the CPU is actively working with. Think of them as the CPU’s scratchpad. The computer also has a larger memory, called RAM, or Random Access Memory. This is where the computer stores the instructions and data it’s currently using.

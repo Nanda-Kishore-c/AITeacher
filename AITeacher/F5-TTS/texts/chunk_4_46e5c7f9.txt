@@ -1,0 +1,3 @@
+The Accumulator, or ACC, is a special register in the ALU that holds one of the numbers being used in a calculation.
+
+So, the computer takes input, the CPU processes that input using the ALU and Control Unit, and then sends the output to an output device, like a monitor or printer. Does that make sense so far?

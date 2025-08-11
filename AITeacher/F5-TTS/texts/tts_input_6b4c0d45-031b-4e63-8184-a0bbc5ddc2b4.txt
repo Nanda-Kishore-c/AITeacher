@@ -1,0 +1,1 @@
+This involves breaking down tasks into very small steps, using things like register transfer , arithmetic operations , and logic operations . These operations are all timed and controlled by the computer’s internal clock, and the CPU uses memory registers to quickly access frequently used data.

@@ -1,0 +1,1 @@
+Okay, let’s break down how a computer works, imagining it as a complex system designed to process information and respond to user commands. At its core, a computer is built around a central processing unit, or CPU, which essentially acts as the brain of the machine, responsible for carrying out instructions and making decisions.

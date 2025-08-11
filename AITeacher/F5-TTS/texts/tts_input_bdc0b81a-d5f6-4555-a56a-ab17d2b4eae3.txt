@@ -1,0 +1,1 @@
+At the heart of the CPU is the arithmetic logic unit, or ALU, a crucial component that carries out mathematical operations such as addition, subtraction, multiplication, and division. This unit works with registers, which are essentially temporary storage locations within the CPU, holding data during calculations.

@@ -1,0 +1,1 @@
+Essentially, the entire system works together – input devices send data, the CPU processes it, and output devices display or produce the result, creating a seamless experience for the user. The careful coordination of these components allows the computer to perform its diverse functions, from running simple applications to complex simulations.

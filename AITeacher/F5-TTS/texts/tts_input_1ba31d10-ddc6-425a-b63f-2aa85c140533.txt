@@ -1,0 +1,1 @@
+Okay, let's break down the operation of a computer, visualizing it as a complex system designed to process information and respond to user commands. At its core, a computer is built around a central processing unit, often referred to as the CPU, which acts as the brain of the system, executing instructions and performing calculations.

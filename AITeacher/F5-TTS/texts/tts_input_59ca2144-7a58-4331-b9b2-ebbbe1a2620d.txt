@@ -1,0 +1,1 @@
+It’s designed with a complex architecture including registers, which are small, high-speed storage locations used to hold data during processing, and arithmetic logic units, or ALUs, which are responsible for performing mathematical and logical operations on that data. These operations might include adding numbers, comparing values, or manipulating bits.

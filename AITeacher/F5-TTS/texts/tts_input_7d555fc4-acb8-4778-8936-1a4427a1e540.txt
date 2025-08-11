@@ -1,0 +1,1 @@
+The computer’s operation also involves addressing memory locations, which are unique identifiers for each area of RAM. When an instruction tells the computer to access a specific location, the ALU retrieves the data stored there. The computer’s output is the result of this processing, and this output can be displayed or used for further operations.

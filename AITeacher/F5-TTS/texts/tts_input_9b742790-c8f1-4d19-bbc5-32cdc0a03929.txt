@@ -1,0 +1,1 @@
+Imagine the CPU as the brain of the computer; it’s the part that follows instructions and makes everything happen. The very first thing the CPU does is fetch instructions – these are like tiny commands – from the computer’s memory. It then interprets what those instructions mean, figuring out what needs to be done.

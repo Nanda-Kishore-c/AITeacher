@@ -1,0 +1,5 @@
+It's used for extremely quick calculations.
+
+The CPU takes information through these steps: it receives input, it stores it in the MU, it moves data to and from the Register for quick calculations, and then it produces an output. 
+
+Essentially, the Register helps speed things up. It's the fastest way for the CPU to access information.

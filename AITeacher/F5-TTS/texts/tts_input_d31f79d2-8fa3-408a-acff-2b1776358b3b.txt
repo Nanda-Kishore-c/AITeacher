@@ -1,0 +1,1 @@
+Next, there’s “Shift Micro-Operations.” This is like moving data in chunks – a group of bits at a time – to make processing more efficient. Imagine you need to shift all the ingredients in your mixing bowl to a new container – it's a quicker way of moving things around.

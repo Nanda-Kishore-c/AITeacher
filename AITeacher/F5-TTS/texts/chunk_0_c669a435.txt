@@ -1,0 +1,3 @@
+Okay, let’s talk about computers! Basically, a computer is like a really smart machine that takes in information, does something with it, and then gives you an answer or result.
+
+Think of it as a cycle: Input, Process, Output. The *input* is where you give the computer information – like typing on a keyboard or clicking a mouse.

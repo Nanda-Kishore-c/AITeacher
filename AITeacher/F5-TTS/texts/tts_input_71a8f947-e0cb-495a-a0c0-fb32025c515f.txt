@@ -1,0 +1,1 @@
+Finally, we have “Memory.” The memory, or "MU," is where the computer stores large amounts of data – things like your documents, pictures, and programs. It’s like the pantry where you keep all your ingredients. The CPU can access this memory to retrieve data or store results.

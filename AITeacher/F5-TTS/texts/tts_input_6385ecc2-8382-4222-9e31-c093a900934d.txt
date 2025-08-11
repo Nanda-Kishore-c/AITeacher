@@ -1,0 +1,1 @@
+The way these components are connected and how they interact is known as the computer’s architecture, and understanding this architecture is key to understanding how computers function at a fundamental level. Let's explore how a computer actually *works* at its most fundamental level, focusing on the central processing unit, or CPU.

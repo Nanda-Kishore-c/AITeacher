@@ -1,0 +1,1 @@
+This language involves things like transferring data between locations, performing arithmetic operations , and shifting bits of data around. These operations are broken down into very small steps, and the CPU executes them one after another, following a precise cycle of fetching instructions, decoding them, and then carrying them out.

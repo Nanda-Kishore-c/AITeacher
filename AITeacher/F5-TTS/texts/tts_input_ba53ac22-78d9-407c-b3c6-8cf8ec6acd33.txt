@@ -1,0 +1,1 @@
+It’s responsible for decoding each instruction and sending the correct signals to get the job done. The third part is Memory Registers. These are like the CPU’s short-term memory. They are small, fast storage locations used to hold data that the CPU is actively working with.

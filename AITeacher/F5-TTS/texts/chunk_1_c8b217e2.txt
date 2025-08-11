@@ -1,0 +1,3 @@
+The *process* is what the computer *does* with that information – the calculations and actions. And finally, the *output* is what you get back – like seeing something on the screen or hearing a sound.
+
+Now, inside a computer, there are several key parts that work together to make this cycle happen. We have the **CPU**, which stands for Central Processing Unit.

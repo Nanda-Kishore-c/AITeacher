@@ -1,0 +1,1 @@
+First, we have the Input Unit, which is how we feed information *into* the computer. This includes things like your keyboard when you type, your mouse when you click, or a scanner when you digitize a document. These devices all convert what you do into a language the computer understands – binary, which is just a series of 0s and 1s.

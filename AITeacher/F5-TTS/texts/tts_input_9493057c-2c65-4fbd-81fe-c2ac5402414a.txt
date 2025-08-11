@@ -1,0 +1,3 @@
+This central area – we’ll call it the "CPU" – is the brain of the computer. It’s responsible for carrying out all the instructions. 
+
+Notice the "Register Transfer." This is how the CPU moves data around. Imagine a series of small boxes – registers – where the CPU quickly stores and retrieves pieces of information. It's like having a few labeled containers to hold ingredients while you're baking.

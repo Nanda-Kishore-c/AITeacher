@@ -1,0 +1,1 @@
+Lastly, the CPU needs a way to communicate results to you, and that’s where Output Units come in. These convert the CPU’s internal binary data into a format you can understand, like text on a monitor or an image on a printer.

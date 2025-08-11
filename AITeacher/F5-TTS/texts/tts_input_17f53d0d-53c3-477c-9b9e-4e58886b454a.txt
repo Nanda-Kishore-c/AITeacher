@@ -1,0 +1,1 @@
+The computer’s operation involves fetching instructions from memory, processing them through the ALU, and then storing the results back into memory. The output unit displays the processed data or the results of calculations, presenting the information to the user.

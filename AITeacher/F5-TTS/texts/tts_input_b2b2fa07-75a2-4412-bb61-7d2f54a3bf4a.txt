@@ -1,0 +1,1 @@
+Essentially, the computer operates by taking input, processing it using the ALU, managing the process with the CU, and storing the data and instructions in memory, allowing for efficient and continuous operation.

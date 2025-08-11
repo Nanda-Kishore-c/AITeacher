@@ -1,0 +1,1 @@
+At its core, the Central Processing Unit, often referred to as the CPU, acts as the brain of the computer, responsible for executing instructions and performing calculations. This unit receives data from various sources, including the memory, keyboard, mouse, and scanner, and then it processes that data based on the instructions it’s given.

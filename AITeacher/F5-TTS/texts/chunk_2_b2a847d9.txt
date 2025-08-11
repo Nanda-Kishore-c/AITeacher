@@ -1,0 +1,3 @@
+Then there’s the Control Unit, which directs everything. It tells the ALU what to do and when. And finally, there are Memory Registers. These are small, temporary storage spaces for the CPU to quickly access information.
+
+The computer uses a system called the “Input-Process-Output” cycle. First, you *input* information – like typing on the keyboard. Then, the *process* happens in the CPU.

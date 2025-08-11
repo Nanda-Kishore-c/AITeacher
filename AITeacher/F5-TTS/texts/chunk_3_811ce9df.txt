@@ -1,0 +1,3 @@
+It's responsible for fetching instructions from memory, interpreting them, and then telling the other parts of the computer what to do.
+
+Inside the CPU, there are several key components. The Arithmetic Logic Unit, or ALU, is where all the math and logic happens. It’s like a calculator that can also make decisions.

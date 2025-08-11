@@ -1,0 +1,1 @@
+The computer’s operation fundamentally relies on a system of interconnected components, primarily centered around the Arithmetic Logic Unit, or ALU, and memory, often referred to as RAM. Essentially, the computer processes information through a series of steps, beginning with instructions stored in memory, which are then fetched and executed by the ALU.

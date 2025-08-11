@@ -1,0 +1,5 @@
+The Accumulator is a very important register in the ALU.
+
+The computer also uses memory, which is like a bigger storage space. This memory, often called RAM – Random Access Memory – holds the programs and data the computer is currently using. 
+
+So, to recap: you input information, the CPU processes it using the ALU and registers, and the computer outputs the result.

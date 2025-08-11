@@ -1,0 +1,1 @@
+Okay, let’s break down the workings of a computer, focusing on how it processes information and interacts with various components. A computer fundamentally operates as a system where data is received, manipulated, and then presented to the user, and it’s built upon a complex interplay of hardware and software.
