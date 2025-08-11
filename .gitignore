@@ -1,12 +1,9 @@
-__pycache__
-.pytest_cache
-.ruff_cache
 final_video_output
 Backups
 
 # Python virtual environments
-aiteacher/
 AITeacher/aiteacher/
+aiteacher/
 venv/
 env/
 ENV/
