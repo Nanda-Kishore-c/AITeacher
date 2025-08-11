@@ -1,0 +1,59 @@
+__pycache__
+.pytest_cache
+.ruff_cache
+final_video_output
+Backups
+
+# Python virtual environments
+aiteacher/
+AITeacher/aiteacher/
+venv/
+env/
+ENV/
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Media and output files
+media/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.pdf
+
+# Temporary and backup files
+New Backups/
+*.tmp
+*.bak
+*.log
+
+# Model checkpoints and data
+ckpts/
+model/
+data/
+*.pth
+*.pt
+*.ckpt
+
+# Configuration files with sensitive data
+*.env
+.env.*

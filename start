@@ -1,0 +1,98 @@
+#!/bin/bash
+
+# AITeacher Project Startup Script
+# ===============================
+# This script activates the virtual environment and starts the project
+
+set -e  # Exit on any error
+
+# Colors for output
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+BLUE='\033[0;34m'
+NC='\033[0m' # No Color
+
+# Project root directory
+PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+VENV_PATH="$PROJECT_ROOT/aiteacher"
+
+echo -e "${BLUE}🚀 AITeacher Project Startup${NC}"
+echo "================================"
+
+# Check if virtual environment exists
+if [ ! -d "$VENV_PATH" ]; then
+    echo -e "${RED}❌ Virtual environment not found at: $VENV_PATH${NC}"
+    echo "Please create the virtual environment first."
+    exit 1
+fi
+
+# Check if activation script exists
+if [ ! -f "$VENV_PATH/bin/activate" ]; then
+    echo -e "${RED}❌ Virtual environment activation script not found${NC}"
+    exit 1
+fi
+
+echo -e "${YELLOW}📍 Project directory: $PROJECT_ROOT${NC}"
+echo -e "${YELLOW}🐍 Virtual environment: $VENV_PATH${NC}"
+
+# Activate virtual environment
+echo -e "${BLUE}🔧 Activating virtual environment...${NC}"
+source "$VENV_PATH/bin/activate"
+
+# Verify activation
+if [ -z "$VIRTUAL_ENV" ]; then
+    echo -e "${RED}❌ Failed to activate virtual environment${NC}"
+    exit 1
+fi
+
+echo -e "${GREEN}✅ Virtual environment activated: $VIRTUAL_ENV${NC}"
+
+# Change to project directory
+cd "$PROJECT_ROOT"
+
+# Check for new modular structure
+echo -e "${BLUE}🔍 Verifying project structure...${NC}"
+required_dirs=(
+    "streamlit_app"
+    "core"
+    "manim_automator"
+)
+missing_dirs=()
+for dir in "${required_dirs[@]}"; do
+    if [ ! -d "$dir" ]; then
+        missing_dirs+=("$dir")
+    fi
+done
+
+if [ ${#missing_dirs[@]} -gt 0 ]; then
+    echo -e "${RED}❌ Missing required directories:${NC}"
+    for dir in "${missing_dirs[@]}"; do
+        echo -e "${RED}   - $dir${NC}"
+    done
+    exit 1
+fi
+
+if [ ! -f "streamlit_app/app.py" ]; then
+    echo -e "${RED}❌ Main application file not found: streamlit_app/app.py${NC}"
+    exit 1
+fi
+
+echo -e "${GREEN}✅ Project structure verified.${NC}"
+
+# Add project root to Python path for proper imports
+export PYTHONPATH="$PROJECT_ROOT:$PYTHONPATH"
+echo -e "${BLUE}🐍 PYTHONPATH set to include project root.${NC}"
+
+
+echo -e "${BLUE}🌐 Starting AITeacher application...${NC}"
+echo "================================================"
+echo -e "${GREEN}🚀 Running from: streamlit_app/app.py${NC}"
+echo -e "🌐 The app will be available at: http://localhost:8501"
+echo -e "⌨️  Press Ctrl+C to stop the application"
+echo "================================================"
+
+# Start Streamlit app
+python -m streamlit run streamlit_app/app.py --server.port=8501 --server.address=0.0.0.0
+
+echo -e "${YELLOW}👋 AITeacher application stopped${NC}"
